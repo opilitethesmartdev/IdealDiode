@@ -1,9 +1,9 @@
 ﻿Item;Model;Qty;Price;;Link
-Diode;PMEG2020EH;20;$1,40;;https://jlcpcb.com/partdetail/MSKSEMI-PMEG2020EHMS/C52287409
-P-MOS;AO3401a;10;$1,00;;https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3401A/C15127
-N-MOS;AO3400a;10;$1,00;;https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3400A/C20917
-Comparator;LM393;10;$2,50;;https://jlcpcb.com/partdetail/TexasInstruments-LM393DGKR/C34440
-Resistor;10kOhm (RCT0210KJLF);20;$0,02;;https://jlcpcb.com/partdetail/HKR_Hong_Kong_Resistors-RCT0210KJLF/C174175
-Pins;1x3 2.54mm;20;$0,47;;https://jlcpcb.com/partdetail/C52016391
+Diode;PMEG2020EH;10;$0.7;;https://jlcpcb.com/partdetail/MSKSEMI-PMEG2020EHMS/C52287409
+P-MOS;AO3401a;5;$0.52;;https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3401A/C15127
+N-MOS;AO3400a;5;$0.49;;https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3400A/C20917
+Comparator;LM393;5;$0.23;;https://jlcpcb.com/partdetail/TexasInstruments-LM393DGKR/C34440
+Resistor;10kOhm;10;$0.03;;https://jlcpcb.com/partdetail/26274-0402WGJ0103TCE/C25531
 ;;;;;
-;Total price:;;$6,39;;
+;;;;;
+;Total price:;;$2.97;;

@@ -1910,6 +1910,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C25531"
+			(at 90.17 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "69670308-6d87-4d4a-a4ff-ba28f66a74d5")
 		)
@@ -2287,7 +2298,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7b50510b-e38a-4228-acd3-81e8b307186c")
 		(property "Reference" "J2"
 			(at 50.165 109.22 0)
@@ -2423,6 +2434,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C20917"
+			(at 95.25 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "bd1aa119-7a65-437f-992f-0b6e510346c4")
 		)
@@ -2508,6 +2530,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C52287409"
+			(at 104.14 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "374c836f-d6a0-4d47-ba92-7f98f70e925c")
 		)
@@ -2533,7 +2566,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a33d2d13-cc6c-4e66-8f41-82ada01d56ed")
 		(property "Reference" "J4"
 			(at 66.675 109.22 0)
@@ -2659,6 +2692,17 @@
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
 			(at 92.71 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15127"
+			(at 92.71 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2830,6 +2874,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C25531"
+			(at 86.36 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "39d01d0e-4773-447b-b387-516a54179c8c")
 		)
@@ -2903,6 +2958,17 @@
 		)
 		(property "Description" "20V, 2A very low Vf MEGA Schottky barrier rectifier, SOD-123F"
 			(at 81.28 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C52287409"
+			(at 81.28 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3034,7 +3100,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cc9569e2-a935-48e9-83db-97fbf9bf0d09")
 		(property "Reference" "J1"
 			(at 50.165 106.68 0)
@@ -3111,7 +3177,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d938bf23-a42e-4928-beed-1b60a53fc331")
 		(property "Reference" "J3"
 			(at 66.675 106.68 0)
