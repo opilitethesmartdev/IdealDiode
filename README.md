@@ -6,8 +6,9 @@ This is a small PCB featuring an ideal diode emulator using a comparator and a P
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=opilitethesmartdev%2FIdealDiode)
 
 <img width="849" height="542" alt="image" src="https://github.com/user-attachments/assets/d8c95fc5-d186-4423-b2c2-8f05bab134cd" />
-<img width="390" height="277" alt="image" src="https://github.com/user-attachments/assets/4c857e56-f97c-4ad5-af75-87c68062b213" />
-<img width="378" height="278" alt="image" src="https://github.com/user-attachments/assets/178656e4-ba4a-4801-9135-ed59ab32fa96" />
+<img width="744" height="461" alt="image" src="https://github.com/user-attachments/assets/c8864c66-eec1-4104-84c7-3751e3c57eff" />
+<img width="825" height="558" alt="image" src="https://github.com/user-attachments/assets/7261a993-c238-4010-beb4-b0347199aa95" />
+
 
 # Principle
 <img width="246" height="370" alt="image" src="https://github.com/user-attachments/assets/97d23efa-05b2-4fcd-b588-a49541965718" />
