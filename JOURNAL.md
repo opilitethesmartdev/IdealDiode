@@ -3,7 +3,7 @@ title: "IdealDiode"
 github: "https://github.com/opilitethesmartdev/idealdiode"
 description: "Simple Ideal Diode based on MOSFETs and a comparator"
 created_at: "2026-10-18"
-total_time: "2h 54m"
+total_time: "4h 54m"
 ---
 
 # October 18, 2026: Designed Ideal Diode PCB
@@ -47,3 +47,22 @@ Anyways, I hope it works (it would be my first ever ship in this whole org)
 :D
 
 **Total time spent: 54m**
+
+# October 19, 2026: Prepared for PCBA
+<!-- fabricate:entry 697 -->
+
+Lapse link: https://lapse.hackclub.com/timelapse/Gbnmnvr_Dl3C
+
+I prepared the diode for production. I first reduced the panelling from 10 pieces to 2, given the minimum order quantity is 5, and i dont really need 50 ideal diodes (and it'd be expensive af).
+
+But i also had to quickly reroute the PCB, because JLCPCB only had one sided assembly (at least i couldnt find double sided).
+I managed to get it to fit, but idk whether itll work:
+![](https://fabricate.hackclub-assets.com/0bc7fb827b8f078110b32649465af9d7e047857853469a7154c1121d18c97032/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/e8559967e7ba4b8c58830a750eb7f205ffb696fef04c96c23ff7a5a567b34a52/image-png/image.png)
+I also removed the pins from the board because i'll be soldering them by hand - there is this secret technique i found for soldering singular pins that happen to be in the 2.54mm pitch setup (just take a pin header with ALL the pins that would fit, then just take out the pins that you dont have a hole for)
+Anyways, i'll see whether i can get the PCBA process done, then i'll ship it
+
+Last thing:
+![](https://fabricate.hackclub-assets.com/90327fb05314edd951cdbfcc3feac3e4b6b66467f741f54c2e0089d11ed46293/image-png/image.png)
+
+**Total time spent: 2h**
