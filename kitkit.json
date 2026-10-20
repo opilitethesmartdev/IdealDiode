@@ -1,0 +1,10 @@
+{
+    "layout": {
+        "rows": "2"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "cutcurves": "True",
+        "layer": "User.1"
+    }
+}
