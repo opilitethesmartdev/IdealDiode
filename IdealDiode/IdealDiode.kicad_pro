@@ -530,7 +530,7 @@
       {
         "clearance": 0.1,
         "line_style": 0,
-        "name": "va",
+        "name": "vanydir",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgb(255, 112, 22)",
@@ -541,7 +541,7 @@
       {
         "clearance": 0.1,
         "line_style": 0,
-        "name": "vi",
+        "name": "vin",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2,
         "schematic_color": "rgb(255, 14, 11)",
@@ -552,7 +552,7 @@
       {
         "clearance": 0.1,
         "line_style": 0,
-        "name": "vo",
+        "name": "vout",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgb(26, 12, 255)",
@@ -572,32 +572,32 @@
         "pattern": "GND"
       },
       {
-        "netclass": "vi",
-        "pattern": "i"
+        "netclass": "vin",
+        "pattern": "in"
       },
       {
-        "netclass": "vo",
-        "pattern": "o"
+        "netclass": "vout",
+        "pattern": "out"
       },
       {
-        "netclass": "va",
-        "pattern": "a"
+        "netclass": "vanydir",
+        "pattern": "anydir"
       },
       {
         "netclass": "GND",
         "pattern": "/i"
       },
       {
-        "netclass": "vi",
-        "pattern": "/i"
+        "netclass": "vin",
+        "pattern": "/in"
       },
       {
-        "netclass": "va",
-        "pattern": "/a"
+        "netclass": "vanydir",
+        "pattern": "/anydir"
       },
       {
-        "netclass": "vo",
-        "pattern": "/o"
+        "netclass": "vout",
+        "pattern": "/out"
       }
     ]
   },

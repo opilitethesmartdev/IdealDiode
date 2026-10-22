@@ -1536,6 +1536,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 133.35) (xy 81.28 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04fa1022-ba88-4115-9d03-93e5d3840865")
+	)
+	(wire
+		(pts
 			(xy 86.36 133.35) (xy 86.36 137.16)
 		)
 		(stroke
@@ -1666,7 +1676,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 137.16) (xy 81.28 133.35)
+			(xy 77.47 135.89) (xy 77.47 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1754,7 +1764,17 @@
 		)
 		(uuid "d908fabe-972c-4f7c-8a96-f859abc404e0")
 	)
-	(label "o"
+	(label "in"
+		(at 83.82 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0383b03a-5cc3-46cd-a6be-0945fdbd64c8")
+	)
+	(label "out"
 		(at 62.23 111.76 180)
 		(effects
 			(font
@@ -1764,17 +1784,17 @@
 		)
 		(uuid "2cf1abf3-9984-4ebe-9050-40cbb7f9724d")
 	)
-	(label "o"
-		(at 107.95 123.19 180)
+	(label "out"
+		(at 88.9 160.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "37e0863f-43c6-4fcd-b810-183f3ea04393")
+		(uuid "32690029-dd7b-4b2a-807a-1be56d996d39")
 	)
-	(label "a"
+	(label "anydir"
 		(at 104.14 132.08 180)
 		(effects
 			(font
@@ -1784,17 +1804,7 @@
 		)
 		(uuid "4421bd04-a16f-4832-b559-64d41e8801cc")
 	)
-	(label "i"
-		(at 83.82 162.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4e888652-eed4-42ad-a5df-a8058c472c4d")
-	)
-	(label "i"
+	(label "in"
 		(at 54.61 111.76 0)
 		(effects
 			(font
@@ -1804,7 +1814,7 @@
 		)
 		(uuid "5a5d951e-2c70-4868-b201-e7b3fed613bd")
 	)
-	(label "i"
+	(label "in"
 		(at 77.47 123.19 0)
 		(effects
 			(font
@@ -1814,7 +1824,17 @@
 		)
 		(uuid "b1f1755d-f1b2-4b72-ae43-8a3f4dea7722")
 	)
-	(label "a"
+	(label "out"
+		(at 107.95 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d99934b9-37df-4841-980c-79da1016c254")
+	)
+	(label "anydir"
 		(at 53.34 130.81 180)
 		(effects
 			(font
@@ -1824,18 +1844,8 @@
 		)
 		(uuid "e300bfaa-545e-42b0-b011-96d034c0b00f")
 	)
-	(label "o"
-		(at 88.9 160.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fb4d0c21-cf8b-44fe-aaf4-0fc719913205")
-	)
-	(label "a"
-		(at 81.28 137.16 0)
+	(label "anydir"
+		(at 77.47 135.89 0)
 		(effects
 			(font
 				(size 1.27 1.27)
