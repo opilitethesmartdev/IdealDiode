@@ -3,7 +3,7 @@ title: "IdealDiode"
 github: "https://github.com/opilitethesmartdev/idealdiode"
 description: "Simple Ideal Diode based on MOSFETs and a comparator"
 created_at: "2026-10-18"
-total_time: "4h 54m"
+total_time: "5h 24m"
 ---
 
 # October 18, 2026: Designed Ideal Diode PCB
@@ -66,3 +66,24 @@ Last thing:
 ![](https://fabricate.hackclub-assets.com/90327fb05314edd951cdbfcc3feac3e4b6b66467f741f54c2e0089d11ed46293/image-png/image.png)
 
 **Total time spent: 2h**
+
+# October 22, 2026: Fixed project issues
+<!-- fabricate:entry 1032 -->
+
+Following the guides from the reviewer, i adjusted the netlabels to be ... a bit more readable:
+![](https://fabricate.hackclub-assets.com/6e8d416518d346fd9c9d5496c629abd1f7906c26e44446c292fe15d202be0526/image-png/image.png)
+I also ensured the changes propagated into the PCB:
+![](https://fabricate.hackclub-assets.com/290a144631e4f9e370faccb970b2e9ae30e7ff24eff32d4b0c2fd2ca8f5fd982/image-png/image.png)
+And made sure to put everything neatly into its folder.
+
+I also updated the falstad simulation to be a bit more readable (and less space-optimized):
+![](https://fabricate.hackclub-assets.com/1eb5e8bf4529b446eb56ac43011c5e82adb2e130b08dae322a6b49a1f7b621e0/image-png/image.png)
+[Use this because falstad's link shortener seems to be down due to PHP's vulnerability](https://www.falstad.com/circuit/circuitjs.html?ctz=DwYwlgTgBAZgvAIgIwKgFwM6IAwDpsEECsqYIiSeATAVQOx0DM2AHFQGwCcndqIARoiLZUAB0EIALI1QA3CENQBbTEICmAWiQoAfACgoUYAHcoAD0RN2UFpJZQrNliNg4EAen2HgAYQD2SqIAhhBBaH7QFgjskthOcTFxLEjsqPDIHl5GplFEdNZ0NFCJDjRpbp4GRgAm5pbs9oVx+fbsheUILkp+iNVqMEEArgA2aJlVwLW5+aVxedZtVB1dPQh9AyNjld45iHbNRURIVLPL4zt1CM4HSTGnrp3n2ZclTcVEBWUPItvPUXTYSSzBwNe7pH5ZYAAc0ujhYzgcjGsLE4qW+T2ASiUUAAdkpEABBAAKzgActgqKSAGJnKCyNA4XDsEhQfhqSySVAYCQoKDVDAATzcrOqFFQ-AZjyg3NFGV+wBgsMBNkYJzhqtp3UJJOw5MpNPluyudzothsJq+4IxRoajSKAKBTTOhsuRzVh0kjstFUhRs9dri+zBPomftVwP9wceLqikbecdszshMNjdnNQMj8JcVvlkT2adNGbTLA16KgCikGIAMgBRAAil0z4czMU1q3WQ1GGmGamqfArvJAUOFAmFSn45E6+BQ8oASpdOMdgZxPVGUqhjFaoEogmZZIooJBFPKMJcWBa4ov3dnhaIxfLaw2ouegSWTi-023ev1O2hu73+zFKAhxHCQugnRlsBnSE82NR0zQ-N9aQrTl5RTRBELuRDnCTCZ5yiRgzTeRgiGvDp1ygTcx13fcEBZI86IxU8CKIoppDIss7zlSEsVxfEEDrABZIlmG4KtaXpIC2UQGRpR5VB+SFKV+FlXkJWFGV70hRUokWBxSOKQo12UVYhJE7AxOtV0Zj0ohOBOZk0RzX1YVBPS6AMxzcIuf5PI+YpWHeJyQx8xB2ECxyoDshyPm8v4woi-zwsaBo4pMF4jI8hzMtS9EYzCnLGiREEWDSo1HBaRFkQo5yJlgyLKteXKtwHQgrN0-zGsKsqXliEqApS0q8pg3qkgIYoqFfAhkIoNr8uiPrkgWRbpuG0MXkmmxxuSrab2jFzdMC64BpKnrdMWlJinhGwapC+LomuparvsJC1tCh6XvDB0VSWN77vYTaswmoErzOsLNqvKLV1Bv70tyaGlyIVcnVho15mBJGvT2iF1o65EEUimHavewml2Oom7rhjDxsh46UeJ+66ftUF6ZDYB3HACB9CAA)
+
+Also, i decided i would *NOT* do PCBA and instead (try) to hand solder it, because taxes alone cost 14$:
+![](https://fabricate.hackclub-assets.com/dfae32a81e8bce41125c5d9d492ee7295e072bc577da015adc62281369fc57f1/image-png/image.png)
+fahhhh
+Well then, off we go.
+(I'll put the PCBA prices for now, but i'll be resubmitting with the new prices)
+
+**Total time spent: 30m**
