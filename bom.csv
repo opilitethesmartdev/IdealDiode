@@ -5,5 +5,7 @@ N-MOS;AO3400a;5;$0.49;;https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3400A/
 Comparator;LM393;5;$0.23;;https://jlcpcb.com/partdetail/TexasInstruments-LM393DGKR/C34440
 Resistor;10kOhm;10;$0.03;;https://jlcpcb.com/partdetail/26274-0402WGJ0103TCE/C25531
 ;;;;;
+PCB;Manufacturing;5x2;$4.2;;
+PCB;Assembly;;$26.61;;
 ;;;;;
-;Total price:;;$2.97;;
+;Total price:;;$30.1;;
