@@ -3,7 +3,7 @@ title: "IdealDiode"
 github: "https://github.com/opilitethesmartdev/idealdiode"
 description: "Simple Ideal Diode based on MOSFETs and a comparator"
 created_at: "2026-10-18"
-total_time: "5h 24m"
+total_time: "6h"
 ---
 
 # October 18, 2026: Designed Ideal Diode PCB
@@ -87,3 +87,20 @@ Well then, off we go.
 (I'll put the PCBA prices for now, but i'll be resubmitting with the new prices)
 
 **Total time spent: 30m**
+
+# November 9, 2026: Redid the PCB with DIP parts
+<!-- fabricate:entry 2480 -->
+
+Lapse link: https://lapse.hackclub.com/timelapse/5dsxloSrDl5w
+So, the first design came in, and it's alright:
+![](https://fabricate.hackclub-assets.com/fff223519a6ad8a1a14e14cbd38636f78af79bd96fe861d2b274288aa61076aa/image-jpeg/20261105_141642%20%281%29.jpg)
+![](https://fabricate.hackclub-assets.com/67385e35ae2313b4d48b687849a5ee1a32bba4c9b2c1d66d57a369abe7e9c77f/image-jpeg/20261105_141657%20%281%29.jpg)
+But, as we have seen, i do NOT have the components (because EU tariffs are I N S A N E)
+So, i quickly redid the PCB, and replaced all components (except for the MOSFETs, those i were able to source) with DIP parts:
+![](https://fabricate.hackclub-assets.com/94a18cbb348cf3b0e6b1b253dd929ac750d8717938139383dc69cef050ab602d/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/d171bbdd176335c610a1e825045b458c6ec22020243b620597e732c2fc4a07b5/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/cd0e6a3c94e7f1ed3ca3e445b8d8a8c2923abb9a6543a7aa01e042e649bfba0a/image-png/image.png)
+It is quite a bit bigger, but that's how life is.
+Anyways, i'll use the remaining budget to have the new PCB manufactured (since i alr have the parts i need), and let's hope it works
+
+**Total time spent: 36m**
